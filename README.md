@@ -1,4 +1,4 @@
-### Hi there 👋 (https://media4.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif)
+### Hi there 👋 [](https://media4.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif)
 
 <!--
 **vitorelourenco/vitorelourenco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
