@@ -1,4 +1,4 @@
-### Hi there 👋 <img src="https://media4.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif">
+### Hi there 👋, Vitor here! Want to know more about me and what I've been up to? Keep scrolling! <img src="https://media4.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif">
 
 <!--
 **vitorelourenco/vitorelourenco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
