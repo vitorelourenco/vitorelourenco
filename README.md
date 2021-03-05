@@ -1,7 +1,7 @@
 
-<div  style="height: 200px; position: relative; background-image: url(readme_gradient.png);">
+<div  align="center">
 
-<img  style="position: absolute; top:50%; left: 50%; transform: translate(-50%, -50%);"  src="vl_logo.png">
+<img src="vl_logo.png">
 
 </div>
 
