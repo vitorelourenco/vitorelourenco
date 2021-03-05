@@ -9,7 +9,7 @@
 <h1 align: "center"> Hey there 👋 Vitor here!</h1>
 
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+<h2> 👨 &nbsp;About Me </h2>
 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -48,28 +48,22 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
   
+<h2> :chart: &nbsp;GitHub Stats </h2>
 
 <a  href="https://github.com/vitorelourenco">
-
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=vitorelourenco&theme=buefy&show_icons=true"  />
-
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorelourenco&theme=buefy&layout=compact"  />
-
+  <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=vitorelourenco&theme=buefy&show_icons=true">
 </a>
+<a  href="https://github.com/vitorelourenco">
+  <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorelourenco&theme=buefy&layout=compact">
+</a>
+
   
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h2>🤝&nbsp; Connect with Me</h2>
 
-  
+<a  href="https://www.linkedin.com/in/vitoremanuellourenco/"><img  alt="LinkedIn"  src=""></a>
 
-<p  align="center">
+<a  href="https://twitter.com/vitorel"><img  alt="Twitter"  src=""></a>
 
-<a  href="https://www.adityavsingh.com/"><img  alt="Website"  src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a  href="mailto:vitor.registros@lourencos.net"><img  alt="Email"  src=""></a>
 
-<a  href="https://www.linkedin.com/in/AVS1508/"><img  alt="LinkedIn"  src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-
-<a  href="https://www.instagram.com/adityavs_/"><img  alt="Instagram"  src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-
-<a  href="mailto:avsingh@umass.edu"><img  alt="Email"  src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-
-</p>
