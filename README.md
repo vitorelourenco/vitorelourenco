@@ -7,7 +7,7 @@
 
   
 
-<h1  style="text-align: center; margin-top: 5px"> Hey there 👋 Vitor here!</h1>
+<h1 text-align: "center"> Hey there 👋 Vitor here!</h1>
 
   
 
@@ -93,9 +93,9 @@
 
 <a  href="https://github.com/AVS1508">
 
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true"  />
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=vitorelourenco&theme=buefy&show_icons=true"  />
 
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact"  />
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorelourenco&theme=buefy&layout=compact"  />
 
 </a>
 
