@@ -12,15 +12,15 @@
 <h2> 👨 &nbsp;About Me </h2>
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Marine Engineer turned Software developer
 
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+- 🌱 &nbsp; Studying to become a professional Full Stack Developer
 
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- ♚ &nbsp; I like playing chess on my free time
 
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 👔 &nbsp; Looking for new opportunities
 
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+
 
 
 <h2>🛠 &nbsp;Tech Stack</h2>
