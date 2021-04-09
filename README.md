@@ -61,9 +61,9 @@
 
 <h2>🤝&nbsp; Connect with Me</h2>
 
-<a  href="https://www.linkedin.com/in/vitoremanuellourenco/"><img  alt="LinkedIn"  src=""></a>
+<a  href="https://www.linkedin.com/in/vitoremanuellourenco/"><img  alt="LinkedIn"  src="https://img.shields.io/badge/LinkedIn-connect-blue"></a>
 
-<a  href="https://twitter.com/vitorel"><img  alt="Twitter"  src=""></a>
+<a  href="https://twitter.com/vitorel"><img  alt="Twitter"  src="https://img.shields.io/twitter/follow/vitorel?style=social"></a>
 
-<a  href="mailto:vitor.registros@lourencos.net"><img  alt="Email"  src=""></a>
+<a  href="mailto:vitor.registros@lourencos.net"><img  alt="Email"  src="https://img.shields.io/badge/email-connect-red"></a>
 
