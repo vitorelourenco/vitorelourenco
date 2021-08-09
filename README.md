@@ -1,11 +1,3 @@
-
-<div  align="center">
-
-<img src="vl_logo.png">
-
-</div>
-
-
 <h1 align: "center"> Hey there 👋 Vitor here!</h1>
 
 
