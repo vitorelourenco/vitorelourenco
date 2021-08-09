@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning TypeScript and ORM
 - 😄 Pronouns: He/Him
 - 🚢 Fun fact: I know a lot of stuff about boats
-- 👔 &nbsp; Looking for new opportunities
+- 👔 Looking for new opportunities
 
 <h2>🛠 &nbsp;Tech Stack</h2>
 
