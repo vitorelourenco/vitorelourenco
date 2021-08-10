@@ -5,6 +5,7 @@
 - 😄 Pronouns: He/Him
 - 🚢 Fun fact: I know a lot of stuff about boats
 - 👔 Looking for new opportunities
+<a  href="https://www.linkedin.com/in/vitoremanuellourenco/"><img  alt="LinkedIn"  src="https://img.shields.io/badge/LinkedIn-connect-blue"></a>
 
 <h2>🛠 &nbsp;Tech Stack</h2>
 
