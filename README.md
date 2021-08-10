@@ -32,16 +32,13 @@
 
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
+
   
-<h2> :chart: &nbsp;GitHub Stats </h2>
-
-<a  href="https://github.com/vitorelourenco">
+<details>
+  <summary> :chart: &nbsp;GitHub Stats </summary>
   <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=vitorelourenco&theme=buefy&show_icons=true">
-</a>
-<a  href="https://github.com/vitorelourenco">
   <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorelourenco&theme=buefy&layout=compact">
-</a>
-
+</details>
   
 
 <h2>🤝&nbsp; Connect with Me</h2>
