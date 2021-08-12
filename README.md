@@ -1,4 +1,7 @@
 ### Hello there <img height=20 src="./assets/Lightsaber_blue.svg"> Vitor here!
+<a href="https://www.linkedin.com/in/vitoremanuellourenco/"><img  alt="LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/vitorel"><img  alt="Twitter"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="mailto:vitor.registros@lourencos.net"><img  alt="Email"  src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 
 ## About me:
 - 😄 Pronouns: He/Him
@@ -19,12 +22,6 @@
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <br />
-
-## Let's meet!
-
-<a href="https://www.linkedin.com/in/vitoremanuellourenco/"><img  alt="LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://twitter.com/vitorel"><img  alt="Twitter"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="mailto:vitor.registros@lourencos.net"><img  alt="Email"  src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 
 <details>
   <summary> :chart: &nbsp;GitHub Stats </summary>
