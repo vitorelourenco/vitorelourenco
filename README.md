@@ -1,14 +1,14 @@
-<h1 align: "center"> Hey there 👋 Vitor here!</h1>
+### Hello there Vitor here!
 
-## I'm a Full Stack Developer 
-- 🌱 I’m currently learning TypeScript and ORM
+## About me:
 - 😄 Pronouns: He/Him
+- ✍ I write about the things I'm learning on this [blog](https://vitorelourenco.wordpress.com/)
 - 🚢 Fun fact: I know a lot of stuff about boats
 - 👔 Looking for new opportunities
 
 <a  href="https://www.linkedin.com/in/vitoremanuellourenco/"><img  alt="LinkedIn"  src="https://img.shields.io/badge/LinkedIn-connect-blue"></a>
 
-<h2>🛠 &nbsp;Tools</h2>
+<h2>👨‍💻 Languages && Tools</h2>
 
 <img height="20" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>&nbsp;![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)&nbsp;![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
