@@ -3,10 +3,11 @@
 ## About me:
 - 😄 Pronouns: He/Him
 - ✍ I write about the things I'm learning on this [blog](https://vitorelourenco.wordpress.com/)
+- 🧱 Eager to collaborate in open source
 - 🚢 Fun fact: I know a lot of stuff about boats
 - 👔 Looking for new opportunities
 
-<h2>👨‍💻 Languages && Tools</h2>
+## Languages && Tools
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -19,7 +20,7 @@
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <br />
 
-<h2>🤝 Let's meet!</h2>
+## Let's meet!
 
 <a href="https://www.linkedin.com/in/vitoremanuellourenco/"><img  alt="LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/vitorel"><img  alt="Twitter"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
