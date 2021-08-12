@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him
 - ✍ I write about the things I'm learning on this [blog](https://vitorelourenco.wordpress.com/)
 - 🧱 Eager to collaborate in open source
-- 🚢 Fun fact: I know a lot of stuff about boats
+- 🚢 I know a lot of stuff about boats
 - 👔 Looking for new opportunities
 
 ## Languages && Tools
