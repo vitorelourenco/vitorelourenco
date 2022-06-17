@@ -4,7 +4,7 @@
 
 ## About me:
 - 🚢 I know a lot of stuff about boats
-- 😄 Pronouns: He/Him
+- He/Him
 
 <details>
   <summary> :chart: &nbsp;GitHub Stats </summary>
